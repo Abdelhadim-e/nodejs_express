@@ -1,1 +1,2 @@
-Mini projet nodejs
+Mini projet :
+ - nodejs / express.js
